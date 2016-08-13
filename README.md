@@ -36,6 +36,4 @@ How to install?
     $> maven compile
 3. Open the project inside eclipse and start coding and running the application from there.
 
-Contact
--------
-For any queries, contact vishnu.prateek.k@ericsson.com, garima.choraria@ericsson.com or utkarsh.u.upadhyaya@ericsson.com
+
